@@ -1,6 +1,6 @@
 # flixster-2
 
-# Android Project 4 - Name of App Here
+# Android Project 4 - flixster-2
 
 Submitted by: *Pavan Kumar Raju Tirumalaraju*
 
